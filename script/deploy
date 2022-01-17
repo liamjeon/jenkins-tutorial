@@ -2,7 +2,7 @@
 ssh ubuntu@13.124.150.40 <<EOF
     cd ~/jenkins-tutorial
     sudo -s
-    git pull origin main
+    git pull origin master
     npm install
     pm2 restart app.js
     exit
