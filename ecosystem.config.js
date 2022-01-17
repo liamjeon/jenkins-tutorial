@@ -1,6 +1,6 @@
 module.exports = { 
     apps: [{
-      name    : "jenkins-tutorial",	//자신이 만든 프로젝트 이름
+      name    : "jenkins-tutorial",
       script  : "npm",
       args    : "start"
     }]
