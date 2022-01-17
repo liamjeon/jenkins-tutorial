@@ -1,7 +1,9 @@
 {
   "dependencies": {
     "express": "^4.17.2",
-    "nodemon": "^2.0.15"
+    "mocha": "^9.1.4",
+    "nodemon": "^2.0.15",
+    "supertest": "^6.2.1"
   },
   "name": "jenkins-tutorial",
   "description": "",
